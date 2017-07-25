@@ -1,5 +1,5 @@
 # docker-hostmapper
-Update automatically your '/etc/hosts' of your running containers.
+Updates automatically your '/etc/hosts' of your running containers.
 
 # About
 Basically it fetch your container name and the IP Address and add to your base machines "/etc/hosts" automatically.
