@@ -15,4 +15,4 @@ Note: the --restart=always option will make the container start automatically wi
 Tested on Linux based Machines.
 
 # Idea
-More Ideas and contribution are more welcome.
+More Ideas and contribution are welcome to make this more efficient.
